@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">VeryUsefulWidget</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="save_widget">Save</string>
+    <string name="sample_name">Chuck</string>
+    <string name="sample_surname">Norris</string>
 </resources>
